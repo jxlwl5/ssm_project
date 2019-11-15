@@ -1,6 +1,6 @@
 package icn.itcast.domain;
 
-
+//修改了User
 public class User {
     private String id;
     private String username;
